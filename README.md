@@ -9,3 +9,15 @@
 <h3>Todos os dias, voce vai ter que codar por pelo menos uma hora</h3>
 </br> 
 <h3>Gerar networking com as pessoas que estão participando desse desafio</h3>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1> 2 dia de desafio </h1>
+<h2>Faça um Hello Worl customizado com fontes, cores e imagens.</h2>
+
+![](21.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>3 dia de desafio </1>
