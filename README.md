@@ -13,7 +13,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1> 2 dia de desafio </h1>
-<h2>Faça um Hello Worl customizado com fontes, cores e imagens.</h2>
+<h2>Faça um Hello World customizado com fontes, cores e imagens.</h2>
 
 ![](21.png)
 
