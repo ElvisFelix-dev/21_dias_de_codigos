@@ -1,0 +1,44 @@
+
+
+body {
+  background: url(background.jpg) no-repeat;
+  display: flex;
+  padding-left: 17rem;
+
+}
+
+.card {
+  background: linear-gradient(
+    135deg,
+    rgba(255,255,255,0.1),
+    rgba(255,255,255,0.1),
+  );
+
+  backdrop-filter: blur(21px);
+  -webkit-backdrop-filter: blur(21px);
+  box-shadow: 0 8px 21px 0 rgba(0,0,0, 0.36);
+  border: 1px solid rgba(255,255,255, 0.16);
+  border-radius: 24px;
+  padding: 50px; 
+}
+
+.card :where(h1, p) {
+  color: #fff;
+  text-align-last: center;
+  margin: 0;
+}
+
+.card h1 {
+  font-size: 48px;
+
+  font-family: "Audiowide", sans-serif;
+}
+
+.card p {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #d1d1d1;
+
+  font-family: "Roboto", sans-serif;
+}
+
